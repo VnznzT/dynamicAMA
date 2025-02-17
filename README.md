@@ -13,6 +13,5 @@ Please cite our AAAI 24 paper "Automated Design of Affine Maximizer Mechanisms i
   pages     = {9626--9635},
   volume    = {38},
   doi       = {10.1609/aaai.v38i9.28819},
-  groups    = {My work},
   publisher = {Association for the Advancement of Artificial Intelligence (AAAI)},
 }
